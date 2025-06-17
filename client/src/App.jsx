@@ -12,7 +12,7 @@ function App() {
 
     const joinChat = () => {
         if (username.trim()) {
-            socketRef.current = io('http://localhost:3000');
+            socketRef.current = io('https://zapchat-rq1v.onrender.com/');
             socketRef.current.emit('join', username.trim());
             socketRef.current.on('users', handleUserUpdate);
             socketRef.current.on('message', handleNewMessage);
