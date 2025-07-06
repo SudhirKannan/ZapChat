@@ -5,19 +5,20 @@ ZapChat is a real-time, full-stack chat application built using the **React** an
 ---
 ## Live Demo 
 
-[🚀 Live Demo (Frontend)](https://zap-chat-alpha.vercel.app)  
-[🛠️ Backend API](https://zapchat-rq1v.onrender.com)
+- 🌐 **Frontend**: [zap-chat-alpha.vercel.app](https://zap-chat-alpha.vercel.app)  
+- 🛠️ **Backend API**: [zapchat-rq1v.onrender.com](https://zapchat-rq1v.onrender.com)
 
 ---
 ## ✨ Features
 
-- ⚡ Real-time messaging using WebSockets (Socket.IO)
-- 🎨 Modern and responsive UI
-- 🧑‍🤝‍🧑 Group chat simulation
-- 🌐 Deployed frontend (Vercel) & backend (Render)
-- 🔁 Auto-scroll for new messages
-- ✅ Works on both desktop & mobile browsers
-
+- ⚡ **Real-Time Messaging** – Instant chat using WebSockets (Socket.IO)
+- 🧑‍🤝‍🧑 **Group Chat Simulation** – Join and chat with others in shared rooms
+- 🎨 **Modern UI** – Built with React and styled using custom CSS
+- 📱 **Responsive Design** – Works seamlessly on mobile and desktop browsers
+- 🔁 **Auto-Scroll** – Automatically scrolls to the latest message
+- ☁️ **Fully Hosted** – Frontend on **Vercel**, backend on **Render**
+- 🔒 **CORS Enabled** – Smooth cross-origin communication
+  
 ---
 ## 🧱 Tech Stack
 
@@ -36,7 +37,24 @@ ZapChat is a real-time, full-stack chat application built using the **React** an
 - **Frontend**: [Vercel](https://vercel.com)
 - **Backend**: [Render](https://render.com)
 
+
 ---
+## 🛠️ Getting Started Locally
+
+### 1️⃣ Backend
+
+```bash
+cd backend
+npm install
+node index.js
+```
+### 1️⃣ Backend
+
+```bash
+cd frontend
+npm install
+npm start
+```
+--- 
 Created by Sudhir💖
 [Github Profile](https://github.com/SudhirKannan/)
-
