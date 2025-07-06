@@ -46,14 +46,14 @@ ZapChat is a real-time, full-stack chat application built using the **React** an
 ```bash
 cd server
 npm install
-node index.js
+npm run dev
 ```
 ### 2️⃣ Frontend
 
 ```bash
 cd client
 npm install
-npm start
+npm run dev
 ```
 --- 
 Created by Sudhir💖
