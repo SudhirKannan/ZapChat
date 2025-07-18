@@ -9,7 +9,7 @@ ______________________________________
 
 ---
 
-## 📝 Internship Work Summary
+## 📝 Project Description
 
 As part of my internship at CodTech IT Solutions, I designed and developed a full-stack real-time chat application named ZapChat, which simulates the core functionality of a modern messaging platform. This project helped me gain practical experience in building real-time web applications using React, Socket.IO, and Node.js—core technologies within the MERN stack ecosystem.
 
